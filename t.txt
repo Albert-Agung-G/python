@@ -1,0 +1,13 @@
+20 menit
+1. class Rectangle --> punya attributes : alas, tinggi --> dari constructor (__init__)
+    method : 
+    - ngitung luas segitiga
+    - ngitung keliling segitiga
+
+2. Employee --> attributes : nama, bayaran_per_hari, posisi/rank, hari_kerja_perminggu
+    method:
+    - print data Employee
+    - hitung gaji perbulan --> function --> 4 * (bayaran_per_hari * hari_kerja_perminggu)
+
+10 menit
+3. Flower --> gue kirim di chat
